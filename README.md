@@ -116,70 +116,7 @@ DBMS-mini-project/
     └── .gitignore
 ```
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- **Node.js** ≥ 18
-- **MySQL** ≥ 8.0
-- **Git**
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Yashwanth7756/DBMS-mini-project.git
-cd DBMS-mini-project
-```
-
-### 2. Setup the Database
-
-Create a MySQL database and run:
-
-```sql
-CREATE DATABASE farmer_market_db;
-```
-
-> The backend auto-creates all tables on first run.
-
-### 3. Configure Backend
-
-```bash
-cd farmer-backend
-npm install
-```
-
-Create a `.env` file:
-
-```env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=farmer_market_db
-JWT_SECRET=mysecretkey123
-PORT=5000
-```
-
-### 4. Start Backend
-
-```bash
-node server.js
-```
-
-> Server runs at `http://localhost:5000`
-
-### 5. Setup & Start Frontend
-
-```bash
-cd ../farmer-frontend
-npm install
-npm start
-```
-
-> App opens at `http://localhost:3000`
-
----
 
 ## 🔌 API Endpoints
 
