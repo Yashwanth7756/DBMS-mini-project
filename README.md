@@ -231,39 +231,7 @@ npm start
 
 ---
 
-## ⌨️ Keyboard Shortcuts
 
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl + K` | Open Command Palette |
-| `Esc` | Close modals / palette |
-| `Enter` | Select command |
-
----
-
-## 📸 Screenshots
-
-### Home Page
-- Premium hero section with animated gradient orbs
-- Live statistics counter
-- Time-based personalized greeting
-
-### Marketplace
-- Live price ticker (stock-market style)
-- Voice search + category filter pills
-- Crop cards with freshness meter, price intelligence, wishlist & compare
-
-### Farmer Dashboard
-- Animated stat counters (crops, orders, revenue)
-- Inline crop listing form
-- Order table with visual timeline tracker
-
-### Admin Panel
-- Platform-wide analytics with animated charts
-- User management with approve/reject
-- CSV export functionality
-
----
 
 ## 🗄️ Database Schema (ER Model)
 
